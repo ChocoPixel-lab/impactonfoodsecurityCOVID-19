@@ -1,0 +1,12 @@
+Functional Requirements:
+
+1.Geolocation dialog skill in Watson Assistant
+2.Auto Price Allocation dialog
+3.Temperature control skill
+4.Create a Weather/NCW(natural calamities warning)
+5.Central and farmers database to build an enhanced Watson Discovery collection.
+6.Create a webhook for the farmers database to the price allocation/storage units location.
+7.Make a Rest API web platform for the Food Security.
+8.IBM Cloud Functions web action that allows Watson Assistant to post
+   queries to Watson Discovery.
+9.Build a web application with integration to all these services &amp; deploy the same on IBM Cloud Platform. 
